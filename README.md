@@ -17,6 +17,7 @@ On the other hand, the sales price should be predicted with the help of a linear
 ### In this repository you can find the following files: 
 * Jupyter Notebook 
 * Presentation 
+* Overview of data (Source: https://de.slideshare.net/PawanShivhare1/predicting-king-county-house-prices, p. 2) 
 
 ### Requierments 
 * xxx
